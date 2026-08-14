@@ -1,2 +1,2 @@
-# Mpp-MoE
+# SemTopo
 Molecular proprety prediction
